@@ -1,0 +1,46 @@
+# Omkar - Resume
+
+## Contact Information
+- **Email:** omkar@example.com
+- **Phone:** +91 XXXXXXXXXX
+- **Location:** India
+
+## Professional Summary
+AI/ML and Full-Stack Engineer passionate about building intelligent and scalable web solutions. Turning ideas into impactful products through code and data.
+
+## Experience
+
+### AI/ML Virtual Internship - EduSkills (2024)
+- Comprehensive virtual internship focusing on AI/ML fundamentals with hands-on projects
+- **Tools:** Python, TensorFlow, Scikit-learn, Jupyter, NumPy, Pandas
+
+### AI/ML with Data Science - YBI Foundation (2024)
+- Specialized internship combining AI, ML, and data science with real datasets
+- **Tools:** Python, Machine Learning, Data Analysis, Deep Learning, Statistics
+
+### Introduction to AI Program - SimpliLearn (2024)
+- Foundational program covering AI concepts and emerging technologies
+- **Tools:** AI Concepts, Neural Networks, NLP, Computer Vision, AI Ethics
+
+### IoT Based Programs - Various Training (2023-2024)
+- Multiple IoT programs focusing on embedded systems and smart devices
+- **Tools:** Arduino, Raspberry Pi, IoT Protocols, Sensor Integration, C/C++
+
+## Skills
+- **Programming Languages:** Python, C++, JavaScript (ES6+), HTML5 & CSS3
+- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, API Integration
+- **AI/ML:** TensorFlow, Scikit-learn, Data Science, Deep Learning
+- **Databases:** SQL, Firebase, MongoDB
+- **Tools:** Git, VS Code, Jupyter Notebook
+
+## Education
+- **Bachelor of Technology** in Computer Science Engineering
+- *University Name* | *Graduation Year*
+
+## Projects
+- AI Career Guidance App
+- Student Attendance Tracking System
+- AI Chatbot
+- EcoHabit Web
+- Farmer Guide Web
