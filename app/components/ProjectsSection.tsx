@@ -67,20 +67,6 @@ const projects = [
   },
   {
     id: 4,
-    name: "Newspaper Web",
-    image: "/News paper.png",
-    description: [
-      "Digital news platform with real-time updates",
-      "Modern news aggregation and display",
-      "Responsive news reading experience",
-    ],
-    tech: ["React", "Next.js", "API", "News API"],
-    github: "https://github.com/Omkar9106/Newspaper1",
-    demo: "https://newspaper1.vercel.app",
-    cardStyle: "style-d",
-  },
-  {
-    id: 5,
     name: "Farmer Guide Web",
     image: "/Farmer Guide.png",
     description: [
