@@ -34,7 +34,7 @@ const projects = [
     ],
     tech: ["React", "Next.js", "Node.js", "Firebase", "Google Auth"],
     github: "https://github.com/Omkar9106/Carrier-Guidance-2",
-    demo: "https://carrier-guidance-oc36.onrender.com/",
+    demo: "https://ai-carrier-guidance-7usj.vercel.app",
     cardStyle: "style-a",
   },
   {
